@@ -20,8 +20,8 @@ You'll need Python 3.7 or newer installed.
 ### Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AlienMinus/Piano
+cd Piano
 ```
 ### Install the required Python library:
 ```bash
